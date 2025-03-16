@@ -39,6 +39,6 @@ public class REPOwalkie : BaseUnityPlugin
 
     private void Update()
     {
-        // Code that runs every frame goes here
+        print("hello amongus");
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.csproj.AssemblyReference.cache
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.AssemblyInfoInputs.cache
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.AssemblyInfo.cs
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.csproj.CoreCompileInputs.cache
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.sourcelink.json
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\bin\Debug\netstandard2.1\REPOwalkie.deps.json
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\bin\Debug\netstandard2.1\REPOwalkie.dll
+C:\Users\abhim\Desktop\R.E.P.Owalkietalkie\obj\Debug\netstandard2.1\REPOwalkie.dll
