@@ -51,7 +51,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMstudios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333b6a4196f9ca764e0620725aa6da24c39c6870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90f508f3643dcc04da328d8f1dcc883671d69a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("REPOwalkie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REPOwalkie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

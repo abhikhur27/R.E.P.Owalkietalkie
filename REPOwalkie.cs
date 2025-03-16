@@ -24,6 +24,10 @@ public class REPOwalkie : BaseUnityPlugin
         Patch();
 
         Logger.LogInfo($"{Info.Metadata.GUID} v{Info.Metadata.Version} has loaded!");
+
+        Logger.LogInfo("This is information");
+        Logger.LogWarning("This is a warning");
+        Logger.LogError("This is an error");
     }
 
     internal void Patch()
@@ -39,6 +43,6 @@ public class REPOwalkie : BaseUnityPlugin
 
     private void Update()
     {
-        print("hello amongus");
+       
     }
 }
